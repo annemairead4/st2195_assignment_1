@@ -1,0 +1,6 @@
+# R-studio assignment
+
+**Part1** 
+```{r}
+print(1:10)
+```
